@@ -25,49 +25,12 @@ This project provides a comprehensive analysis of airport-related data, offering
 - Python 3.8+
 - pip (Python package manager)
 
-### Steps
-1. Clone the repository
-bash
-git clone https://github.com/your-username/AIRPORT-ANALYSIS.git
-cd AIRPORT-ANALYSIS
-
-
-2. Create a virtual environment
-bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
-
-3. Install required dependencies
-bash
-pip install -r requirements.txt
-
-
-## Usage
-
-### Running the Analysis
-bash
-python main.py
-
-
-### Example Commands
-python
-# Sample usage examples
-from airport_analysis import analyze_traffic
-analyze_traffic('airport_data.csv')
-
-
-## Data Sources
-- List your data sources here
-- Mention any APIs or datasets used
-- Include data collection methods
-
 ## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Jupyter Notebook (if applicable)
+- Jupyter Notebook 
 
 ## Project Structure
 
